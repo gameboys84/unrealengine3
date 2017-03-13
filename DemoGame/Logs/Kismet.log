@@ -1,0 +1,16 @@
+Log: Log file open, 01/08/17 21:49:10
+Log: Event SeqEvent_LevelStartup_1 registering with actor NULL
+Log: - activated!
+Log: -> Level Startup (SeqEvent_LevelStartup_1) has finished execution
+Log: --> link Out (0) activated
+Log: -> SeqEvent_LevelStartup_1 activating output to: SeqAct_PlaySound_0
+Log: -> SeqEvent_LevelStartup_1 activating output to: SeqAct_Interp1
+Log: -> Matinee (SeqAct_Interp1) has been activated
+Log: --> Attaching latent action SeqAct_Interp1 to actor InterpActor0
+Log: --> Attaching latent action SeqAct_Interp1 to actor PointLightMovable0
+Log: -> Play Sound (SeqAct_PlaySound_0) has been activated
+Log: -> Play Sound (SeqAct_PlaySound_0) has finished execution
+Log: --> link Out (0) activated
+Log: -> Matinee (SeqAct_Interp1) has finished execution
+Log: --> link Out (0) activated
+Log: Log file closed, 01/08/17 21:50:43
