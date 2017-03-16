@@ -7,3 +7,5 @@ Build the engine:
   Enjoy!
 
 Check unrealengine.com for new Unreal Engine!
+
+© 2004-2017, Epic Games, Inc. All rights reserved. Unreal and its logo are Epic’s trademarks or registered trademarks in the US and elsewhere.  
